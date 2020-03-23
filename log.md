@@ -8,3 +8,9 @@
 **Link(s) to work**
 1. [freeCodeCamp Profile ](https://www.freecodecamp.org/fccdafd256d-4d69-43ca-9cd8-546d519152cb)
 
+### Day 2: March 22, Sunday
+**Today's Progress**: For the first 30 minutes, I completed the Responsive Web Design Principles portion which help me review how to write media queries, make an image responsive, use a retina image for higher resolution displays, and make typography responsive. Afterwards, I joined my Lambda Labs team to work on testing and debugging our given app, We were able to complete most of the end to end testing of the back-end and got started on debugging the user interactions of the front-end portion.
+
+For the second 30 minutes, I completed 10/17 of Flex Box.
+
+**Thoughts** The subject of FreeCodeCamp are easier and faster to complete thanks to the Knowledge I earned from Lambda School 5 months ago. Completing FreeCodeCamp makes me feel refreshed and more confident.
