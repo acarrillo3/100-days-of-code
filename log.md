@@ -18,3 +18,7 @@ For the second 30 minutes, I completed 10/17 of Flex Box.
 ### Day 3: March 23, Monday
 **Today's Progress**: Today I completed the 17/17 of CSS Flexbox and 3 / 22 from css grids. Created a submit form skeleton for a project and did research about AWS and OKTA
 **Thoughts** I enjoy doing freeCodeCamp exercises, it refreshes old content learned and also I leanerded a bit about grids which I tought it was a difficult concept, shows up its not. However, today i wasn't able to give it my all as I was laerning about AWS and OKTA to implemented on a project.
+
+### Day 4: March 24, Tuesday
+**Today's Progress**: I completed 17/22 of the CSS grid exercises from http://freeCodeCamp.org/skaj04 .
+**Thoughts** I have to say 5 months ago I was intimidated by CSS grids. Today, I feel more confident to add it in my next project.
