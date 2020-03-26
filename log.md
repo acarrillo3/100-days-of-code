@@ -22,3 +22,7 @@ For the second 30 minutes, I completed 10/17 of Flex Box.
 ### Day 4: March 24, Tuesday
 **Today's Progress**: I completed 17/22 of the CSS grid exercises from http://freeCodeCamp.org/skaj04 .
 **Thoughts** I have to say 5 months ago I was intimidated by CSS grids. Today, I feel more confident to add it in my next project.
+
+### Day 5: March 25, Wednesday
+**Today's Progress**: I completed CSS Grid portion and got started on the Responsive Web Design Project https://codepen.io/acarrillo9724/pen/BaNGQvm
+**Thoughts** I passed all test i just have styling left.
