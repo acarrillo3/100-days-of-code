@@ -16,13 +16,22 @@ For the second 30 minutes, I completed 10/17 of Flex Box.
 **Thoughts** The subject of FreeCodeCamp are easier and faster to complete thanks to the Knowledge I earned from Lambda School 5 months ago. Completing FreeCodeCamp makes me feel refreshed and more confident.
 
 ### Day 3: March 23, Monday
-**Today's Progress**: Today I completed the 17/17 of CSS Flexbox and 3 / 22 from css grids. Created a submit form skeleton for a project and did research about AWS and OKTA
+**Today's Progress**: Today I completed the 17/17 of CSS Flexbox and 3 / 22 from css grids. Created a submit form skeleton for a project and did research about AWS and OKTA.
+
 **Thoughts** I enjoy doing freeCodeCamp exercises, it refreshes old content learned and also I leanerded a bit about grids which I tought it was a difficult concept, shows up its not. However, today i wasn't able to give it my all as I was laerning about AWS and OKTA to implemented on a project.
 
 ### Day 4: March 24, Tuesday
 **Today's Progress**: I completed 17/22 of the CSS grid exercises from http://freeCodeCamp.org/skaj04 .
+
 **Thoughts** I have to say 5 months ago I was intimidated by CSS grids. Today, I feel more confident to add it in my next project.
 
 ### Day 5: March 25, Wednesday
 **Today's Progress**: I completed CSS Grid portion and got started on the Responsive Web Design Project https://codepen.io/acarrillo9724/pen/BaNGQvm
+
 **Thoughts** I passed all test i just have styling left.
+
+### Day 6: March 26, Thursday
+**Today's Progress**: I finished working on the FFC Tribute Page for now: https://codepen.io/acarrillo9724/pen/BaNGQvm and started the FFC Build a Survey.https://codepen.io/acarrillo9724/pen/zYGMXWP
+
+**Thoughts** 
+ I passed all test, just need to add CSS. This took more than 1hr but it't worth it. 
