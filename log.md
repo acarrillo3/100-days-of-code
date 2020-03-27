@@ -31,6 +31,7 @@ For the second 30 minutes, I completed 10/17 of Flex Box.
 **Thoughts** I passed all test i just have styling left.
 
 ### Day 6: March 26, Thursday
-**Today's Progress**: I finished working on the FFC Tribute Page for now: https://codepen.io/acarrillo9724/pen/BaNGQvm and started the FFC Build a Survey.
+**Today's Progress**: I finished working on the FFC Tribute Page for now: https://codepen.io/acarrillo9724/pen/BaNGQvm and started the FFC Build a Survey.https://codepen.io/acarrillo9724/pen/zYGMXWP
 
 **Thoughts** 
+ I passed all test, just need to add CSS. This took more than 1hr but it't worth it. 
