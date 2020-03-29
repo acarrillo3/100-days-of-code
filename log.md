@@ -35,3 +35,12 @@ For the second 30 minutes, I completed 10/17 of Flex Box.
 
 **Thoughts** 
  I passed all test, just need to add CSS. This took more than 1hr but it't worth it. 
+
+### Day 7: March 27, Friday
+**Today's Progress**:: I finished the Build a Survey and even created an application and survey form for my labs group from lambda school.
+**Thought**
+I was exauhsted after words but happy with my productivity
+### Day 8: March 28, Saturday
+**Today's Progress**: I got half way finish with the PRoduct landing page form fcc
+**Thougts**
+I enjoy writing the code but not so much thinking what the code should look like visual wise
