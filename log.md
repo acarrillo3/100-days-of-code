@@ -62,6 +62,7 @@ I enjoy writing the code but not so much thinking what the code should look like
 
 **Today's Progress**: I got half way completed with the Technical Documentation page 
 
-**Thoughts** I wanted to finish it all within a 1hr but not possible. 
+**Thoughts** I wanted to finish it all within a 1hr but not possible. https://codepen.io/acarrillo9724/pen/OJVdoxa
 
-**Link(s) to work**:https://codepen.io/acarrillo9724/pen/OJVdoxa
+**Link(s) to work**:https://codepen.io/acarrillo9724/pen/OJVdoxa.
+
