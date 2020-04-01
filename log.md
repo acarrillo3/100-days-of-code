@@ -62,6 +62,17 @@ I enjoy writing the code but not so much thinking what the code should look like
 
 **Today's Progress**: I got half way completed with the Technical Documentation page 
 
-**Thoughts** I wanted to finish it all within a 1hr but not possible. 
+**Thoughts** I wanted to finish it all within a 1hr but not possible. So I went back later and completed the same  day
 
 **Link(s) to work**:https://codepen.io/acarrillo9724/pen/OJVdoxa
+
+### Day 11: March 31, Tuesday
+
+**Today's Progress**: I completed the personal portfolio page and this concludes the section of responsive web design  
+
+**Thoughts** I dedicated 
+
+**Link(s) to work**:  https://codepen.io/acarrillo9724/pen/yLNwJpq
+https://www.freecodecamp.org/certification/skaj04/responsive-web-design
+
+11 days ago, I committed to the #100DaysOfCode challenge. Thanks #freeCodeCamp for the free resource and the community support.  
