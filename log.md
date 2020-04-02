@@ -76,3 +76,6 @@ I enjoy writing the code but not so much thinking what the code should look like
 https://www.freecodecamp.org/certification/skaj04/responsive-web-design
 
 11 days ago, I committed to the #100DaysOfCode challenge. Thanks #freeCodeCamp for the free resource and the community support.  
+
+### Day 12: April 1, Wednesday
+Day 12 of #100DaysOfCode I completed 80/110 of Basic JavaScript #freeCodeCamp  thru out the day, and practiced javascript questions.
