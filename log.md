@@ -79,3 +79,6 @@ https://www.freecodecamp.org/certification/skaj04/responsive-web-design
 
 ### Day 12: April 1, Wednesday
 Day 12 of #100DaysOfCode I completed 80/110 of Basic JavaScript #freeCodeCamp  thru out the day, and practiced javascript questions.
+
+### Day 13, April 2, Thursday
+Completed 94/ 100 of JS #freeCodeCamp. and completed some hacker rank challenges
