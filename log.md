@@ -81,4 +81,7 @@ https://www.freecodecamp.org/certification/skaj04/responsive-web-design
 Day 12 of #100DaysOfCode I completed 80/110 of Basic JavaScript #freeCodeCamp  thru out the day, and practiced javascript questions.
 
 ### Day 13, April 2, Thursday
-Completed 94/ 100 of JS #freeCodeCamp. and completed some hacker rank challenges
+Completed 94 / 110 of JS #freeCodeCamp. and completed some hacker rank challenges
+
+### Day 14, April 3, Firday
+Completed 110 / 110 JS. I find if statements so useful when it comes to recursion functions.
