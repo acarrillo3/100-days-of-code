@@ -6,7 +6,7 @@
 
 **Thoughts** I felt accomplished for compliting a portion. I learned the importance of making a web site accessible to people with disabilities.
 **Link(s) to work**
-1. [freeCodeCamp Profile ](https://www.freecodecamp.org/fccdafd256d-4d69-43ca-9cd8-546d519152cb)
+1. [freeCodeCamp Profile ](https://www.freecodecamp.org/skaj04)
 
 ### Day 2: March 22, Sunday
 
@@ -85,3 +85,6 @@ Completed 94 / 110 of JS #freeCodeCamp. and completed some hacker rank challenge
 
 ### Day 14, April 3, Firday
 Completed 110 / 110 JS. I find if statements so useful when it comes to recursion functions.
+
+### Day 15, April 4, Saturday 
+R1D15 | completed 10/31 of ES6 JS #freeCodeCamp 
