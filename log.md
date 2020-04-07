@@ -6,7 +6,7 @@
 
 **Thoughts** I felt accomplished for compliting a portion. I learned the importance of making a web site accessible to people with disabilities.
 **Link(s) to work**
-1. [freeCodeCamp Profile ](https://www.freecodecamp.org/fccdafd256d-4d69-43ca-9cd8-546d519152cb)
+1. [freeCodeCamp Profile ](https://www.freecodecamp.org/skaj04)
 
 ### Day 2: March 22, Sunday
 
@@ -92,4 +92,3 @@ Completed 10 / 31 ES6.
 ***took one day off from tech***
 ### Day 16, April 7, Firday
 made more progress 25/31 of ES6 for #100DaysOfCode 
-
