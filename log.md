@@ -90,5 +90,9 @@ Completed 110 / 110 JS. I find if statements so useful when it comes to recursio
 Completed 10 / 31 ES6. 
 
 ***took one day off from tech***
-### Day 16, April 7, Firday
+### Day 16, April 6, Monday
 made more progress 25/31 of ES6 for #100DaysOfCode 
+
+### Day 17, April 7, Tuesday
+R1D17 #100DaysOfCode completed ES6 portion of #freeCodeCamp and got done 7/33 of regular expressions where I learned about regex ( so far a way to look for letter or words within a string). I like the way my strike overview is looking https://freecodecamp.org/skaj04
+
