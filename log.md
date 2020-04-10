@@ -96,3 +96,8 @@ made more progress 25/31 of ES6 for #100DaysOfCode
 ### Day 17, April 7, Tuesday
 R1D17 #100DaysOfCode completed ES6 portion of #freeCodeCamp and got done 7/33 of regular expressions where I learned about regex ( so far a way to look for letter or words within a string). I like the way my strike overview is looking https://freecodecamp.org/skaj04
 
+### Day 18, April 8, Wednesday
+R1D18 completed 18/33 regular expressions #100DaysOfCode #freeCodeCamp
+
+### Day 19 April 10, Friday
+completed regular expressions 
