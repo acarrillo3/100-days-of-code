@@ -101,3 +101,6 @@ R1D18 completed 18/33 regular expressions #100DaysOfCode #freeCodeCamp
 
 ### Day 19 April 10, Friday
 completed regular expressions 
+
+### Day 20 April 11, Saturday
+R1D20 Completed the debugging challenges section of #freeCodeCamp #100DaysOfCode 
