@@ -104,3 +104,6 @@ completed regular expressions
 
 ### Day 20 April 11, Saturday
 R1D20 Completed the debugging challenges section of #freeCodeCamp #100DaysOfCode 
+
+### Day 21 and 22, Friday
+it took the whole week to complete the Basic Algorithmic Scripting section, It was a hard section and I definitely need more practice. #100DaysOfCode #freeCodeCamp
