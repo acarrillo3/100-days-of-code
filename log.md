@@ -113,3 +113,6 @@ R1D22 20/20 Basic Data structures #100DaysOfCode #freeCodeCamp
 
 ### Day 23 and 24, April, 15 and 17, Friday
 it took the two days but it felt like a whole week to complete the Basic Algorithmic Scripting section, It was a hard section and I definitely need more practice. #100DaysOfCode #freeCodeCamp
+
+### Day 25 - 27
+I stop working on JavaScript for now as I am now learning python. I completed the Object Oriented Programming from FreeCodeCamp. I will return once I have more time. Now building data structures and algorithm in python are my fav
